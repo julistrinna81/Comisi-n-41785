@@ -59,7 +59,7 @@ main{
 
 body {
     background-image: url(backgorund_amici.jpg);
-    height: 100vh;
+    height:100vh;
 }
 
 .banner_01 {
@@ -85,9 +85,9 @@ body {
     height: 450px;
     display: flex;
     padding: 10px;
-    gap: 60px;
+    gap: 78px;
     margin-top: 40px;
-    margin-left: 120px;
+    margin-left: 0px;
     align-items: center;
     text-align: center;
     color: white;
@@ -116,8 +116,7 @@ body {
     align-items: center;
     text-align: center;
     padding: 10px;
-    margin-left: 8%;
-    gap: 120px;
+    gap: 170px;
 }
 
 .stickersus {
@@ -269,7 +268,7 @@ form.enviar {
 
 
 .nosotros { 
-    margin-top: 50px;
+    margin-top: 30px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -277,14 +276,14 @@ form.enviar {
     padding: 50px;
 }
 .nosotros_img {
-    margin-left: 150px;
+
 }
 
 .nosotros_txt {
     font-family: 'Montserrat', sans-serif;
     color: #e967a8;
-    margin-left: 80px;
-    margin-right: 300px;
+    margin-left: 50px;
+    margin-right: 15%;
 }
 
 /* fin nosotros*/
@@ -634,14 +633,9 @@ margin-left: 8%;
         margin-top: 800px;
     
     }
-    
-    #formularioIndex {
-    color: gray;
-    margin-top: 50px;
-    margin-left: 18%;
-    margin-right: 18%;
-    
-    }
+
+
+
     
     .form_nombre {
         color: gray;
